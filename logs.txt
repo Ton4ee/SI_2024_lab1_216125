@@ -1,0 +1,161 @@
+Antonio@DESKTOP-8EAL9U6 MINGW64 ~/Documents/GitHub/SI_2024_lab1_216125 (main)
+$ git log
+commit 0c1f2a8b7a17eef05228a3bb1062baefe1418cc0 (HEAD -> main)
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:52:07 2024 +0200
+
+     Final commit
+
+commit 1c9849f7717fef044f9ea52561f205a20b82a9e0
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:50:04 2024 +0200
+
+    Delete txt and index
+
+commit 54bf99a66e0837ba140c988ff0f8fa35c1742d98 (origin/main, origin/HEAD, bug2)
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:46:26 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit d0b5ed7c77d4791fcc2ec8aab46a731feaaa33b8
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:33:21 2024 +0200
+
+    change
+
+commit 521ee88ff59573a80fb1c7a8f591f343767cd603
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:43:02 2024 +0200
+
+    Add index and txt with logs
+
+commit eb302f1b5cdcc3e90ceeb836f282aadacb9e74f5
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:40:19 2024 +0200
+
+    Add file.txt and Index.txt
+
+commit c4f9e13f60930219330fb8ddc4261391d2c8d264
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:24:14 2024 +0200
+
+    Fix wrong condition
+
+commit ad383824491d8fd2a5caa2e275ebe20386385b80
+Merge: fd97db8 f46d0bc
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:01:54 2024 +0200
+
+    Merge branch 'bug1'
+
+commit f46d0bc2bf3da57e31a1e7eb547f57e635c9c1e2 (origin/bug1, bug1)
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 20:52:31 2024 +0200
+
+    Call method filterOddLengthStrings
+
+commit fd97db8ba0b679213a497bc00b2ac62fbb553fca
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 02:14:04 2024 +0200
+
+    Add starter commit
+
+commit 7a14a1c789fce9feed39d614511ace7038af02ac
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 02:13:41 2024 +0200
+
+    bla
+
+commit ae69099a27badbf2f3ef4b3b3f52304a00a88a4a
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 02:06:13 2024 +0200
+
+    Fix wrong condition
+
+commit 9f79813f087f73d2003ba03df9c6fd91b8a74965
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 02:04:48 2024 +0200
+
+    Fix wrong condition
+
+commit b8c415033dad76c161456fae6c47158fe0662147
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 02:03:44 2024 +0200
+
+    Reverse Changes
+
+commit 6943d71a1bcd9323270d1903468359966aaa362d
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 02:01:44 2024 +0200
+
+    Change
+
+commit 5157055f5f4b40727fc46c25e35764d064413a6d
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 01:58:12 2024 +0200
+
+    Reverse
+
+commit c4a03375375a03d0850ca167180c95c57a40471b
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 01:54:35 2024 +0200
+
+    Reverse change
+
+commit 475683e04eb7bb62d1d2927f14938a1ee035ac18
+Merge: 161356b 24b81d5
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 01:41:29 2024 +0200
+
+    Merge branch 'main' of https://github.com/Ton4ee/SI_2024_lab1_216125
+    First merge
+
+commit 161356bdbacf1d8563f51c64cb979bc9c4a6c7df
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 01:29:29 2024 +0200
+
+    Fixed java files
+
+commit 9e988b18e2ba1869992bd1688c43440de5faefff
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 01:21:31 2024 +0200
+
+    Add starter commit
+
+commit 24b81d5f11a71caba72028b456d677bd59245256
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 01:09:45 2024 +0200
+
+    Initial commit
+
+commit ead5cdb19809072f4d113b07391de3f0359dd6c5
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 01:08:39 2024 +0200
+
+    Update README.md
+
+commit 7ccee9c036b4ccd8b0aea264bfa1a1b43f9becc3
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 01:08:19 2024 +0200
+
+    Update README.md
+
+commit d0b779e96efcd0c3175930ace0655a1233830b67
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 01:07:47 2024 +0200
+
+    First commit  README.md
+
+commit 5c5458e3e901bc18fe4b39ca01e5858bda36e171
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 00:54:56 2024 +0200
+
+    Initial commit
+
+commit 781cc3af6ab1254ff0fe918deb5c8f167e9dacac
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 00:42:11 2024 +0200
+
+    first commit
+(END)
