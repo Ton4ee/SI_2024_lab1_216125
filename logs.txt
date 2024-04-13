@@ -1,0 +1,31 @@
+$ git log
+commit eb302f1b5cdcc3e90ceeb836f282aadacb9e74f5 (HEAD -> main)
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:40:19 2024 +0200
+
+    Add file.txt and Index.txt
+
+commit c4f9e13f60930219330fb8ddc4261391d2c8d264 (origin/main, origin/HEAD)
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:24:14 2024 +0200
+
+    Fix wrong condition
+
+commit ad383824491d8fd2a5caa2e275ebe20386385b80
+Merge: fd97db8 f46d0bc
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:01:54 2024 +0200
+
+    Merge branch 'bug1'
+
+commit f46d0bc2bf3da57e31a1e7eb547f57e635c9c1e2 (origin/bug1, bug1)
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 20:52:31 2024 +0200
+
+    Call method filterOddLengthStrings
+
+commit fd97db8ba0b679213a497bc00b2ac62fbb553fca
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 02:14:04 2024 +0200
+
+:
