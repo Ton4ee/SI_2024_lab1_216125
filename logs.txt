@@ -1,6 +1,38 @@
 $ git log
+commit 75ea28fb725fe8f8b20679538913979c82b80dc5 (HEAD -> main, origin/main, origin/HEAD)
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 15:36:47 2024 +0200
 
-commit 9f1669c20dc5f1724c6bf1185b88b3733798c813 (HEAD -> main, origin/main, origin/HEAD)
+    Final commit
+
+commit b985a0fa7d83fe900c2e48a18273b29edebce827
+Merge: 00bffda 67bffed
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 15:36:00 2024 +0200
+
+    Merge branch 'main' of https://github.com/Ton4ee/SI_2024_lab1_216125
+
+commit 00bffda7a14ba719b0b6f4dc73a00ecc0987e837
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 15:34:21 2024 +0200
+
+    Final commit
+
+commit 67bffed9b17f5a1acd9666943419382a6aa55c99
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 15:32:40 2024 +0200
+
+    Update 216125.txt
+
+    Водење документација
+
+commit 37f6c32ccf615dad30766dde48c78877e13d9d4d
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 14:49:46 2024 +0200
+
+    Final commit
+
+commit 9f1669c20dc5f1724c6bf1185b88b3733798c813
 Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
 Date:   Sun Apr 14 13:59:13 2024 +0200
 
