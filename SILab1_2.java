@@ -5,11 +5,7 @@ public class SILab1_2 {
     private static String makeBigStringFrom (List<String> list, int minLength) {
         StringBuilder sb = new StringBuilder();
         for (String el : list) {
-<<<<<<< HEAD
-            if (el.length() > minLength) {
-=======
-            if (el.length() < minLength) {
->>>>>>> bug1
+            if (el.length() >= minLength) {
                 sb.append(el);
             }
         }
