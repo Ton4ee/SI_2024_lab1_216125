@@ -2,3 +2,34 @@
 Во оваа лабораториска вежба направив многу commits, некои од нив беа за тестирање а големиот дел од нив беа следење на барања во лабораториската вежба . Следејки ја лабораториската вежба имав голем број на комити како што се:
 Initial commit ,  add starter code , а Fix wrong condition in filterOddLengthStrings , а Fix wrong condition in n makeBigStringFrom , Call method filterOddLengthStrings in main class,  Call method makeBigStringFrom in main class, Final commit.
 Оваа лабораториска вежба многу ми помогна да ги научам  основите на git.
+1.Инсталирање на гит.
+2.Правење на акаунт и промена од main vo master.
+3.Креирање на индекс.тхт
+4.Направив фајлови со креирање лоцално во фолдерот со десен клик create new.
+5.Со командата git remote add origin
+6.Додадов фајл локално , во bash , git add . , git commit.
+7.Ги download локално и ги преместив во фолдерот.
+8.Git push.
+9.git checkout -b  командата.
+10.git checkout bug1.
+11.Поправање на грешка, git add . , git commit.
+12git checkout bug2.
+13. Поправање на грешка, git add . , git commit.
+14.git checkout bug1
+15.git commit -m “Call method filterOddLengthStrings in main class."
+16.git checkout bug2.
+17.git commit -m “Call method makeBigStringFrom in main class."
+18.git push origin master.
+19. git checkout master.
+20.git merge bug1.
+21git push origin master.
+22.git checkout  bug2.
+23.git rebase master.
+24.git checkout master.
+25.git merge bug2.
+26.git push.
+27.git push origin master.
+28.Креирање на датотеките. Git add . , git commit -m "Final commit"
+29.git push origin master
+
+Во чекорите 20 немав конфликти Mergod  bese vo red a vo 23 rebase i cekor 25 imav problem so konflikti i go resiv so --skip, --continue.
