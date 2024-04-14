@@ -1,4 +1,0 @@
-Во оваа лабораториска вежба научив да ги користам командите git branch, git checkout , git rebase , git merge , git pull, git push , git remote add origin ,  git fetch , git clone , git add . , git commit  , git log, git remote -v, git remote, git status.
-Во оваа лабораториска вежба направив многу commits, некои од нив беа за тестирање а големиот дел од нив беа следење на барања во лабораториската вежба . Следејки ја лабораториската вежба имав голем број на комити како што се:
-Initial commit ,  add starter code , а Fix wrong condition in filterOddLengthStrings , а Fix wrong condition in n makeBigStringFrom , Call method filterOddLengthStrings in main class,  Call method makeBigStringFrom in main class, Final commit.
-Оваа лабораториска вежба многу ми помогна да ги научам  основите на git.
