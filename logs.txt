@@ -1,6 +1,61 @@
-Antonio@DESKTOP-8EAL9U6 MINGW64 ~/Documents/GitHub/SI_2024_lab1_216125 (main)
 $ git log
-commit 0c1f2a8b7a17eef05228a3bb1062baefe1418cc0 (HEAD -> main)
+
+commit 9f1669c20dc5f1724c6bf1185b88b3733798c813 (HEAD -> main, origin/main, origin/HEAD)
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 13:59:13 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 844ba4ec29250c21bae1e50bec0f32fb546f6fb7
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 13:58:05 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 4036fd8b1f28188ee11e82d8b56d34cf2d46c7b2
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 13:57:47 2024 +0200
+
+    test
+
+commit 71c8c8ea5a46158a9fad858ce633a92cd6dfeb59
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 13:55:21 2024 +0200
+
+    Fix wrong condition in makeBigStringForm
+
+commit 5d5097ee4066afc958e8a4d8095d2ecea02211c4
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 13:52:51 2024 +0200
+
+    test
+
+commit 2e7636ea2c733aad4992e9a904358875ef08a24c
+Merge: 4bd66b0 dac96a2
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 13:47:26 2024 +0200
+
+    Merge branch 'bug2' of https://github.com/Ton4ee/SI_2024_lab1_216125
+
+commit 4bd66b0acad400f12bd5528f1ed6bc1c4dbec502
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 13:45:30 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom.
+
+commit 47f0cfbfff2f7e59140344f605dbe1c524654906
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sun Apr 14 13:13:34 2024 +0200
+
+    Initial commit
+
+commit d99382d2764e1f87684105626bf52343f62a5d35
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:53:35 2024 +0200
+
+    Final commit
+
+commit 0c1f2a8b7a17eef05228a3bb1062baefe1418cc0
 Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
 Date:   Sat Apr 13 21:52:07 2024 +0200
 
@@ -12,7 +67,7 @@ Date:   Sat Apr 13 21:50:04 2024 +0200
 
     Delete txt and index
 
-commit 54bf99a66e0837ba140c988ff0f8fa35c1742d98 (origin/main, origin/HEAD, bug2)
+commit 54bf99a66e0837ba140c988ff0f8fa35c1742d98
 Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
 Date:   Sat Apr 13 21:46:26 2024 +0200
 
@@ -42,6 +97,24 @@ Date:   Sat Apr 13 21:24:14 2024 +0200
 
     Fix wrong condition
 
+commit dac96a21a3fb1e7c70e8ed76fb76373beb1b4405
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:10:40 2024 +0200
+
+    Reverse change
+
+commit a433b70b38fcff60210d1348c6fcceb67effc933
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:09:54 2024 +0200
+
+    Fix wrong condition
+
+commit ef957161f757c68f2faff5fd2673ff6aa548a75d
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 21:08:32 2024 +0200
+
+    Reverse change
+
 commit ad383824491d8fd2a5caa2e275ebe20386385b80
 Merge: fd97db8 f46d0bc
 Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
@@ -49,7 +122,13 @@ Date:   Sat Apr 13 21:01:54 2024 +0200
 
     Merge branch 'bug1'
 
-commit f46d0bc2bf3da57e31a1e7eb547f57e635c9c1e2 (origin/bug1, bug1)
+commit 1f60cc6818521d1d443da7af937710f0e407d512
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 20:55:19 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit f46d0bc2bf3da57e31a1e7eb547f57e635c9c1e2
 Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
 Date:   Sat Apr 13 20:52:31 2024 +0200
 
@@ -66,6 +145,18 @@ Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
 Date:   Sat Apr 13 02:13:41 2024 +0200
 
     bla
+
+commit 530f8f90c39ece194483668ec70b4bd4c40d8981
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 02:08:26 2024 +0200
+
+    Fix wrong condition
+
+commit 171dc57ea68a44c9c23da4ad81e318a67693cebe
+Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
+Date:   Sat Apr 13 02:07:46 2024 +0200
+
+    Changes
 
 commit ae69099a27badbf2f3ef4b3b3f52304a00a88a4a
 Author: Ton4ee <166876423+Ton4ee@users.noreply.github.com>
